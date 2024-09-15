@@ -10,9 +10,7 @@ Follow the steps below to set up and run the anomaly detection script:
 
    Clone this repository to your local machine using the following command:
 
-   "git clone <repository-url>"
-
-   Replace `<repository-url>` with the actual URL of the repository.
+   "git clone `https://github.com/kushtiwari13/anomaly-detector`"
 
 2. **Create and Activate a Virtual Environment**
 
